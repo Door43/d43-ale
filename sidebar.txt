@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ale:home|Door43 (ale)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ale|d43-ale repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ale/archive/master.zip|d43-ale.zip]]
+
+**Recent Changes**
+{{changes>ns = ale}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ale|Ethnologue data]]
+
